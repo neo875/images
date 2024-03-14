@@ -1,0 +1,13 @@
+.background{
+   -fx-background-color: #f0f0f0;
+}
+.thumbnail{
+   -fx-cursor: hand;
+   -fx-border-color: #ccc;
+   -fx-border-width: 1;
+   -fx-border-radius: 4;
+
+}
+.thumbnail:hover{
+     -fx-background-color: #e0e0e0;
+}
